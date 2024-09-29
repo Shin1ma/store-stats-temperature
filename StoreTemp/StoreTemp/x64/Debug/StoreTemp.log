@@ -1,0 +1,9 @@
+﻿  InputHandler.cpp
+C:\Users\nebur\source\repos\StoreTemp\StoreTemp\InputHandler.cpp(74,155): warning C4244: 'argomento': conversione da 'double' a 'int'. Possibile perdita di dati.
+  StoreTemp.cpp
+  structimplementation.cpp
+C:\Users\nebur\source\repos\StoreTemp\StoreTemp\structimplementation.cpp(138,50): warning C4244: 'argomento': conversione da 'const double' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+C:\Users\nebur\source\repos\StoreTemp\StoreTemp\structimplementation.cpp(166): warning C4715: 'operator>': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\nebur\source\repos\StoreTemp\StoreTemp\structimplementation.cpp(183): warning C4715: 'operator<': non tutti i percorsi di controllo restituiscono un valore
+  StoreTemp.vcxproj -> C:\Users\nebur\source\repos\StoreTemp\x64\Debug\StoreTemp.exe

@@ -1,0 +1,7 @@
+{ 1990 { January ( 10 10 30C ) }{ February ( 20 10 67F ) }{ March ( 20 10 20C ) }{ April ( 20 20 69F ) }{ August ( 30 10 10C )( 30 11 9C ) }{ November ( 5 3 80F ) }{ December ( 5 7 100F ) } }
+{ 1991 { January ( 5 7 30C ) }{ March ( 4 8 80F ) }{ June ( 23 4 89F ) }{ November ( 7 10 30C ) }{ December ( 9 11 35C ) } }
+{ 1992 { January ( 9 3 60F ) }{ May ( 30 10 90F ) }{ September ( 20 4 25C ) }{ December ( 30 8 15C ) } }
+{ 1995 { February ( 20 5 -15C ) }{ June ( 20 7 30F )( 30 9 20F ) }{ October ( 20 10 -15C ) }{ December ( 20 8 20F ) } }
+{ 1997 { January ( 10 5 20C ) }{ June ( 16 3 87F ) }{ September ( 12 8 100F )( 19 7 20C )( 30 9 10C ) }{ December ( 1 9 10C )( 8 10 74F )( 30 1 10C ) } }
+{ 1999 { January ( 1 1 10C )( 6 8 25C )( 20 8 76F )( 30 9 10C ) }{ May ( 12 9 65F )( 25 9 70F )( 31 4 90F ) }{ August ( 1 7 31F )( 7 7 51F )( 25 11 78F )( 30 10 38F ) }{ December ( 1 10 90F )( 10 10 100F )( 20 8 57F )( 31 8 90F ) } }
+{ 2000 { January ( 1 8 20C )( 20 9 15C )( 25 9 30C )( 31 9 25C ) }{ June ( 1 9 25C )( 5 11 20C )( 10 9 30C )( 25 15 15C )( 30 20 5C ) }{ September ( 1 11 20C )( 1 20 5C )( 6 11 20C )( 23 10 30C )( 31 9 20C ) }{ December ( 12 7 -12C )( 24 9 -5C )( 31 9 10C ) } }

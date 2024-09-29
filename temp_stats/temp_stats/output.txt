@@ -1,0 +1,12 @@
+                Mean(C°)  Median(C°)  Readings number
+Year  Month
+
+1966            18.75     18.75       7
+
+      March     17.5      15          4
+      September 20        20          3
+
+2008            29.1667   29.1667     5
+
+      October   28.3333   30          3
+      December  30        30          2

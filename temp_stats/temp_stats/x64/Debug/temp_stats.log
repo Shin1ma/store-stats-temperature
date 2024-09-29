@@ -1,0 +1,7 @@
+﻿  structs.cpp
+C:\Users\nebur\source\repos\temp_stats\temp_stats\structs.cpp(66,70): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+  temp_stats.cpp
+C:\Users\nebur\source\repos\temp_stats\temp_stats\temp_stats.cpp(87,44): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+C:\Users\nebur\source\repos\temp_stats\temp_stats\structs.cpp(162): warning C4715: 'MonthToInt': non tutti i percorsi di controllo restituiscono un valore
+  temp_stats.vcxproj -> C:\Users\nebur\source\repos\temp_stats\x64\Debug\temp_stats.exe
